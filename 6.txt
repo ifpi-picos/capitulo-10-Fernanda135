@@ -1,0 +1,9 @@
+Ferramentas populares para testes de integração em Node.js:
+-Jest: Um framework de testes que suporta testes de integração e unitários.
+-Mocha: Um framework de testes flexível que pode ser usado com várias bibliotecas de asserção.
+-Supertest: Uma biblioteca para testar APIs HTTP em Node.js.
+
+Boas práticas incluem:
+-Escrever testes que cubram a interação entre diferentes módulos.
+-Garantir que os testes sejam executados em um ambiente que simule a produção.
+-Manter os testes organizados e documentados para facilitar a manutenção.
